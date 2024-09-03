@@ -3,28 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35118.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section 2 - ASP.NET Core App w. EF db", "Section 2 - ASP.NET Core App w. EF db", "{34DE1DB2-CD88-481A-87B6-27F7117BA28F}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section 3 - ASP.NET Core app w. RESTful API", "Section 3 - ASP.NET Core app w. RESTful API", "{C4A1EF8E-C16D-4EC0-9269-715AB4FC0A0F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diary", "Section 2 - ASP.NET Core App w. EF db\Diary.csproj", "{C8674D62-02A9-4DC9-A124-16AB77BA6706}"
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C8674D62-02A9-4DC9-A124-16AB77BA6706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8674D62-02A9-4DC9-A124-16AB77BA6706}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8674D62-02A9-4DC9-A124-16AB77BA6706}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8674D62-02A9-4DC9-A124-16AB77BA6706}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{C8674D62-02A9-4DC9-A124-16AB77BA6706} = {34DE1DB2-CD88-481A-87B6-27F7117BA28F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAB4D6F7-954A-415B-9F4C-D0085F1FB348}
